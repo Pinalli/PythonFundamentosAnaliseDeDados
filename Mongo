@@ -1,0 +1,10 @@
+No final da instalação, habilite e inicie o serviço do MongoDB. Com isso, você poderá iniciar usando isso.
+
+sudo systemctl enable mongodb
+
+sudo systemctl start mongodb
+Finalmente, cheque o status do serviço.
+
+sudo systemctl status mongodb
+
+teste
